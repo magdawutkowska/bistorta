@@ -1,1 +1,1 @@
-# bistorta
+This repo contains scripts and other files used in data analysis used in a manuscript Wutkowska et al., 2020 'Can root-associated' fungi mediate the impact of abiotic conditions on the growth of a High Arctic herb?
