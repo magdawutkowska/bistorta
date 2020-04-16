@@ -2,7 +2,7 @@ This repo contains scripts and other files used in data analysis used in Wutkows
 
 List of files:
 
-* Overview of the data analysis procedures, this should clarify the flow (can be found in supplementary material to the manuscript)
+* flow.png - an overview of the data analysis procedures, this should clarify the flow (can be found in supplementary material to the manuscript)
 
 BIOINFORMATICS:
 * dada2_fencesA.R
