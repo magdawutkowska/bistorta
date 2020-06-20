@@ -17,6 +17,7 @@ BIOINFORMATICS:
 * seqtabs_largeA.rds
 * seqtabs_largeB.rds
 * seqtabs_tempA.rds
+* seqtabs_tempB.rds
 
 * mergerunsRemovechimerasAssignTaxonomy.R
 
